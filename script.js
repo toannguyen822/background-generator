@@ -1,6 +1,6 @@
 var css = document.querySelector("h3");
 var body = document.getElementById("gradient");
-var button = document.querySelector(".button");
+var button = document.querySelector(".btn");
 
 function setGradient() {
 	var color1 = get_random_color();
